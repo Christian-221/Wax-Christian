@@ -10,7 +10,7 @@ source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Tur
 order: '00'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/vieques.jfit.jpg"
-full: "/img/vieques.jfit.jpg"
+thumbnail: "/img/vieques.jfit.png"
+full: "/img/vieques.jfit.png"
 
 ---
